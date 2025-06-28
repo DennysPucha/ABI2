@@ -46,15 +46,6 @@ Cada carpeta contiene una implementación específica o experimento práctico as
 - Implementa un hash resistente a ataques de fuerza bruta asistida, incluso post-filtración.
 - Mantiene latencias bajas para usuarios legítimos mientras eleva la entropía para atacantes.
 
-## ✅ Requisitos
-
-- Python ≥ 3.8
-- TensorFlow o PyTorch (para VGG16)
-- NumPy, Matplotlib, Scikit-learn
-- Z3 Solver (para ataques SCA)
-- OpenCV (para cifrado de imágenes)
-- Pillow, hashlib, hmac, etc.
-
 Instalación rápida:
 
 ```bash
